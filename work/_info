@@ -1,0 +1,150 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/digital design/Assignments/assign3/q2
+T_opt
+!s110 1722533551
+V?7MmBo?Z=J;Qdb1;gFcSQ3
+04 3 4 work tb1 fast 0
+=1-84a938c703d0-66abc6af-49-7224
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+T_opt2
+!s110 1722533386
+V;XFo^WWoVi`nHzVAe@nV72
+04 3 4 work tb3 fast 0
+=4-84a938c703d0-66abc60a-2fb-77a4
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+vdsp
+Z6 !s110 1722533549
+!i10b 1
+!s100 XQ<9M9mfUl3PoF?ZVV3BY3
+Ie@<l30=LcPC;A9GII<V]E3
+Z7 dD:/digital design/projects/dsp mini project
+w1722529496
+8dsp_dut.v
+Fdsp_dut.v
+!i122 24
+L0 1 264
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1722533549.000000
+Z11 !s107 dsp_tb1.v|dsp_dut.v|
+Z12 !s90 -reportprogress|300|dsp_dut.v|dsp_tb1.v|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vreg_mux_pair
+!s110 1722531359
+!i10b 1
+!s100 6R=B:ZI38`efWkbWTGRf@1
+IZ2k]PjNW??m6[F]4_aYaC0
+R7
+w1722529654
+8D:/digital design/projects/dsp mini project/reg_mux_pair.v
+FD:/digital design/projects/dsp mini project/reg_mux_pair.v
+!i122 19
+L0 1 86
+R8
+R9
+r1
+!s85 0
+31
+!s108 1722531359.000000
+!s107 D:/digital design/projects/dsp mini project/reg_mux_pair.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital design/projects/dsp mini project/reg_mux_pair.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vtb1
+R6
+!i10b 1
+!s100 YVcX8GDKd5jAC5IH62_J`3
+IS[:L@[jT:f6^;;g]G_k:D3
+R7
+w1722470622
+8dsp_tb1.v
+Fdsp_tb1.v
+!i122 24
+L0 1 97
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R4
+vtb2
+!s110 1722531317
+!i10b 1
+!s100 KH9OH4m]Sf?74QJR8j_Uk3
+I_9Siz@QLgUIO;]M1EJK9X1
+R7
+w1722531267
+8dsp_tb2.v
+Fdsp_tb2.v
+!i122 18
+Z14 L0 1 110
+R8
+R9
+r1
+!s85 0
+31
+!s108 1722531317.000000
+!s107 dsp_tb2.v|dsp_dut.v|
+!s90 -reportprogress|300|dsp_dut.v|dsp_tb2.v|
+!i113 0
+R13
+R4
+vtb3
+!s110 1722533487
+!i10b 1
+!s100 C[kQ50OHPeFZ`DTQ`>KSZ3
+IRC`M:Pn7M2?Am7]kD3W=71
+R7
+w1722472116
+8dsp_tb3.v
+Fdsp_tb3.v
+!i122 23
+R14
+R8
+R9
+r1
+!s85 0
+31
+!s108 1722533487.000000
+!s107 dsp_tb3.v|dsp_dut.v|
+!s90 -reportprogress|300|dsp_dut.v|dsp_tb3.v|
+!i113 0
+R13
+R4
